@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-  * print_str - fonction qui permet d'afficher une chaîne de caractères.
-  * @args: argument, la chaîne à afficher.
-  * Return: comptage des caractères.
+  * print_str - fonction that allows to print a string.
+  * @args: the string to display.
+  * Return: count of the characters.
   */
 int print_str(va_list args)
 {

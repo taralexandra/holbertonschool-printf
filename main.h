@@ -1,16 +1,16 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* Bibliothèques inclues */
+/* Libraries included */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdarg.h>
 
 /**
-  * struct specifiers - Une structure pour le format.
-  * @specifiers: argument => specifieurs tels que modulo, add etc.
-  * @f: la fonction associée.
+  * struct specifiers - one struct for format.
+  * @specifiers: argument => specifiers like modulo, add etc.
+  * @f: the fonction associated.
   */
 typedef struct specifiers
 {
@@ -18,13 +18,13 @@ typedef struct specifiers
 	int (*f)(va_list);
 } specifiers_t;
 
-/* Prototypes des fonctions */
+/* Prototypes of the fonctions */
 
 int _putchar(char c);
 int _printf(const char *format, ...);
 int func_specifiers(char s, va_list args);
 
-/* Les spécifieurs de conversions */
+/* The conversions specifiers */
 
 int print_char(va_list args);
 int print_modulo(va_list args);

@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-  * func_specifiers - les spécificateurs utilisés tels que modulo,
-  * ou s pour string, ou c pour char etc.
-  * @conv_specif: les spécifieurs de conversion pré-cités.
-  * @args: les arguments, particulièrement si spécifieurs utilisé.
-  * Return: le comptage de spécifieur si type identifié dans le tableau.
+  * func_specifiers - the specifiers used like the modulo,
+  * or s for string, c for char etc...
+  * @conv_specif: the specifiers.
+  * @args: the argument, essentially the specifier used.
+  * Return: count the specifier if used in the tab.
   *
   */
 int func_specifiers(char conv_specif, va_list args)

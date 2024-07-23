@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * print_digit - fonction qui va permettre d'afficher un digit.
-  * @args: la liste d'aguments comportant le digit.
+  * print_digit - fonction which allows to display digits.
+  * @args: the argument and maybe, the digit.
   *
-  * Return: 1 lorsque un caractère est affiché.
+  * Return: 1 when one char is printed.
   */
 int print_digit(va_list args)
 {

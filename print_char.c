@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * print_char - fonction qui permet d'afficher un caractère.
-  * @args: liste d'arguments qui contient le caractère à afficher.
+  * print_char - fonction that allow to print a char.
+  * @args: list of args to print.
   *
-  * Return: 1 qui indique que un caractère a été affiché.
+  * Return: 1 if one character is displayed.
   */
 int print_char(va_list args)
 {
