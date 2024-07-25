@@ -18,6 +18,12 @@ Here is the presentation about my project Printf - Tara QUARTERO
 ## Flowchart
 
 Here is the Flowchart of the project : ![Flowchart](https://raw.githubusercontent.com/taralexandra/holbertonschool-printf/main/printf_flowchart_v3.png)
+## Command you should use to compile
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
+
+## Learn more about this printf lookalike function with the Manpage i made
+
+Here is a link to discover the man page : [man 3 printf](https://github.com/taralexandra/holbertonschool-printf/man_3_printf)
 
 ## About the author...
 
