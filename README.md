@@ -17,8 +17,7 @@ Here is the presentation about my project Printf - Tara QUARTERO
 
 ## Flowchart
 
-Here is the Flowchart of the project : ![Flowchart](https://raw.githubusercontent.com/taralexandra/holbertonschool-printf
-/main/printf_flowchart.png)
+Here is the Flowchart of the project : ![Flowchart](https://raw.githubusercontent.com/taralexandra/holbertonschool-printf/main/printf_flowchart.png)
 
 ## About the author...
 
