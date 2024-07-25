@@ -32,7 +32,7 @@ int func_specifiers(char conv_specif, va_list *args)
 		i++;
 	}
 
-	if (count_total == 0)
+	if (count_total == 0 && conv_specif != 's')
 	{
 		count_total += _putchar('%');
 		count_total += _putchar(conv_specif);

@@ -28,7 +28,7 @@ int _printf(const char *format, ...)
 			}
 
 			count_total += func_specifiers(format[i + 1], &args);
-			if (count_total == 0)
+			if (count_total == 0 && format[i + 1] != 's')
 				count += _putchar(format[i + 1]);
 			if (count_total == -1)
 				count = -1;
