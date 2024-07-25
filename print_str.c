@@ -5,11 +5,11 @@
   * @args: the string to display.
   * Return: count of the characters.
   */
-int print_str(va_list args)
+int print_str(va_list *args)
 {
 	int i;
 	int count_total = 0;
-	char *str = va_arg(args, char *);
+	char *str = va_arg(*args, char *);
 
 	if (!str)
 	{

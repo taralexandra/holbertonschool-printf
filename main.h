@@ -15,19 +15,19 @@
 typedef struct specifiers
 {
 	char specifiers;
-	int (*f)(va_list);
+	int (*f)(va_list *);
 } specifiers_t;
 
 /* Prototypes of the fonctions */
 
 int _putchar(char c);
 int _printf(const char *format, ...);
-int func_specifiers(char s, va_list args);
+int func_specifiers(char s, va_list *args);
 
 /* The conversions specifiers */
 
-int print_char(va_list args);
-int print_modulo(va_list args);
-int print_str(va_list args);
-int print_digit(va_list args);
+int print_char(va_list *args);
+int print_modulo(va_list *args);
+int print_str(va_list *args);
+int print_digit(va_list *args);
 #endif

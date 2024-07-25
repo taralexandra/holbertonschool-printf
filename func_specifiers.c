@@ -8,7 +8,7 @@
   * Return: count the specifier if used in the tab.
   *
   */
-int func_specifiers(char conv_specif, va_list args)
+int func_specifiers(char conv_specif, va_list *args)
 {
 	int i = 0;
 	int count_total = 0;

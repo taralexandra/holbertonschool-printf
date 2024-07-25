@@ -6,9 +6,9 @@
   *
   * Return: 1 if one character is displayed.
   */
-int print_char(va_list args)
+int print_char(va_list *args)
 {
-	char c = va_arg(args, int);
+	char c = va_arg(*args, int);
 
 	_putchar(c);
 

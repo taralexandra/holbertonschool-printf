@@ -6,11 +6,11 @@
   *
   * Return: 1 when one char is printed.
   */
-int print_digit(va_list args)
+int print_digit(va_list *args)
 {
 	int decimal = 1;
 	int count_total = 0;
-	long int digit = va_arg(args, int);
+	long int digit = va_arg(*args, int);
 	long int digitals;
 
 	if (digit < 0)

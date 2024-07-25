@@ -6,7 +6,7 @@
   * Return: 1 if one character is printed.
   */
 
-int print_modulo(va_list args)
+int print_modulo(va_list *args)
 {
 	(void)args;
 

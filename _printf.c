@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
   * _printf - printf, Holberton's way.
   * @format: specifiers or character(s) entered.
@@ -26,7 +27,7 @@ int _printf(const char *format, ...)
 				break;
 			}
 
-			count_total += func_specifiers(format[i + 1], args);
+			count_total += func_specifiers(format[i + 1], &args);
 			if (count_total == 0)
 				count += _putchar(format[i + 1]);
 			if (count_total == -1)
