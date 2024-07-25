@@ -17,11 +17,7 @@ Here is the presentation about my project Printf - Tara QUARTERO
 
 ## Flowchart
 
-Here is the Flowchart of the project :
-
-## Tests that i made with the function :
-
-Here are some tests i realized with the function _printf :
+Here is the Flowchart of the project : [Flowchart](https://drive.google.com/file/d/1Lf0kAqm8FJuRKJsRGl6PhmfzaXzHf8Ut/view?usp=sharing)
 
 ## About the author...
 
