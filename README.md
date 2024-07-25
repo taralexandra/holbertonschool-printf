@@ -23,8 +23,7 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
 ## Learn more about this printf lookalike function with the Manpage i made
 
-Here is a link to discover the man page : [man 3 printf](https://github.com/taralexandra/holbertonschool-printf/man_3_printf)
-
+Here is a link to discover the man page : [man 3 printf](https://github.com/taralexandra/holbertonschool-printf/blob/main/man_3_printf)
 ## About the author...
 
 Meet me on my professional account [Linked In](https://fr.linkedin.com/in/tara-alexandra-quartero-a34534177) or with my account on [Github](https://github.com/taralexandra).
