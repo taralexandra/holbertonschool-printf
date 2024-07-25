@@ -18,7 +18,7 @@ int print_str(va_list *args)
 
 	if (str[0] == '\0')
 	{
-		return (-1);
+		return (0);
 	}
 
 	for (i = 0; str[i] != '\0'; i++)
