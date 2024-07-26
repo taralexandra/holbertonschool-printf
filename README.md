@@ -21,6 +21,9 @@ Here is the presentation about my project Printf - Tara QUARTERO
 - => You are not allowed to use global variables
 - => No more than 5 functions per file
 - => All your header files should be include guarded.
+- => We will use our own main.c files at compilation; do not push your own main.c file. Our main.c files might be different from the one shown in the examples
+- => The prototypes of all your functions should be included in your header file called main.h
+- => You are not allowed to use standard function like printf.
 
 ## Flowchart
 
