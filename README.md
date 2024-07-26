@@ -46,6 +46,11 @@ Once your programm is compiled with the previous command, please use the executa
 ## Learn more about this printf lookalike function with the Manpage i made
 
 Here is a link to discover the man page : [man 3 printf](https://github.com/taralexandra/holbertonschool-printf/blob/main/man_3_printf)
+
+Or use the command below once you cloned the repo :
+
+[Screen of the man page and command to use to open it](https://raw.githubusercontent.com/taralexandra/holmbertonschool-printf/main/how_to_open_the_man_3_printf_page.png)
+
 ## About the author...
 
 Meet me on my professional account [Linked In](https://fr.linkedin.com/in/tara-alexandra-quartero-a34534177) or with my account on [Github](https://github.com/taralexandra).
