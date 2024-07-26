@@ -17,10 +17,10 @@ Here is the presentation about my project Printf - Tara QUARTERO
 
 ## Main requirements of this project
 
-=> A README.md file, at the root of the folder of the project is mandatory
-=> You are not allowed to use global variables
-=> No more than 5 functions per file
-=> All your header files should be include guarded.
+- => A README.md file, at the root of the folder of the project is mandatory
+- => You are not allowed to use global variables
+- => No more than 5 functions per file
+- => All your header files should be include guarded.
 
 ## Flowchart
 
@@ -39,7 +39,7 @@ git@github.com:username/holbertonschool-printf.git
 ## Command you should use to compile
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
-## If you cant to execute this programm
+## If you want to execute this programm
 
 Once your programm is compiled with the previous command, please use the executable wich should look like this => ./a.out
 
