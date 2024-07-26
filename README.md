@@ -49,7 +49,7 @@ Here is a link to discover the man page : [man 3 printf](https://github.com/tara
 
 Or use the command below once you cloned the repo :
 
-[Screen of the man page and command to use to open it](https://raw.githubusercontent.com/taralexandra/holmbertonschool-printf/main/how_to_open_the_man_3_printf_page.png)
+[Screen of the man page and command to use to open it](https://raw.githubusercontent.com/taralexandra/holbertonschool-printf/main/how_to_open_the_man_3_printf_page.png)
 
 ## About the author...
 
